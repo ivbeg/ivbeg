@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Telegram https://t.me/ibegtin
 - ⚡ Fun fact: I am programming since I am 6
 
-![Ivan's github stats](https://github-readme-stats.vercel.app/api?ivbeg=anuraghazra&count_private=true)
+![Ivan's github stats](https://github-readme-stats.vercel.app/api?username=ivbeg&count_private=true)
 

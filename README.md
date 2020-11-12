@@ -10,15 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Telegram https://t.me/ibegtin
 - ⚡ Fun fact: I am programming since I am 6
 
-![Ivan's github stats](https://github-readme-stats.vercel.app/api?username=ivbeg&count_private=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivbeg&show_icons=true&include_all_commits=true&theme=radical" alt="ivbeg's github stats" 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivbeg&layout=compact&theme=radical" />
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivbeg&show_icons=true&include_all_commits=true&theme=radical" alt="ivbeg's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivbeg&layout=compact&theme=radical" />
-</a>
 
 

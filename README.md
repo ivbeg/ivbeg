@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Government Data projects at Russian Accounting Chamber 
+- 🔭 I’m currently working on Data catalogs for Russian Open data
 - 🌱 I’m currently learning Spanish and Go
 - 👯 I’m looking to collaborate on Open Source Data Projects
 - 🤔 I’m looking for help with Russian National Digital Archive

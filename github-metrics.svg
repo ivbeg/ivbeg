@@ -296,7 +296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>internetarchive/heritrix3</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.</div>
@@ -349,7 +349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ArchiveBox/ArchiveBox</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...</div>
@@ -402,7 +402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cocrawler/cdx_toolkit</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A toolkit for CDX indices such as Common Crawl and the Internet Archive's Wayback Machine</div>
@@ -455,7 +455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webrecorder/warcio</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Streaming WARC/ARC library for fast web archive IO</div>
@@ -505,7 +505,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jun 2022, 23:06:04 (timezone Europe/Moscow) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 2 Jun 2022, 00:06:18 (timezone Europe/Moscow) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data catalogs for Russian Open data - [DataCrafter](https://data.apicrafter.ru)
+- 🔭 I’m currently working on Data catalogs for Open data - [DataCrafter](https://datacrafter.ru)
 - 🌱 I’m currently learning Spanish and Go
 - 👯 I’m looking to collaborate on Open Source Data Projects
 - 🤔 I’m looking for help with Russian National Digital Archive https://github.com/ruarxive 

@@ -4,10 +4,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data catalogs for Open data - [DataCrafter](https://datacrafter.ru)
-- 🌱 I’m currently learning Spanish and Go
 - 👯 I’m looking to collaborate on Open Source Data Projects
+- 🌱 I’m currently learning Arabic, Spanish and Go
 - 🤔 I’m looking for help with Russian National Digital Archive https://github.com/ruarxive 
-- 💬 Ask me about Government data in Russia [here](https://github.com/ivbeg/ivbeg/issues)
+- 💬 Ask me about Government data in Russia and other countries [here](https://github.com/ivbeg/ivbeg/issues)
 - 📫 How to reach me: Telegram channel https://t.me/begtin
 - ⚡ Fun fact: I am programming since I am 6
 
